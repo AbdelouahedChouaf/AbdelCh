@@ -1,0 +1,8 @@
+c:\users\achouaf\documents\visual studio 2015\Projects\Lemonway.Services\Lemonway.Services\obj\Debug\Lemonway.Services.csprojResolveAssemblyReference.cache
+c:\users\achouaf\documents\visual studio 2015\Projects\Lemonway.Services\Lemonway.Services\bin\Lemonway.Services.dll.config
+c:\users\achouaf\documents\visual studio 2015\Projects\Lemonway.Services\Lemonway.Services\bin\Lemonway.Services.dll
+c:\users\achouaf\documents\visual studio 2015\Projects\Lemonway.Services\Lemonway.Services\bin\Lemonway.Services.pdb
+c:\users\achouaf\documents\visual studio 2015\Projects\Lemonway.Services\Lemonway.Services\obj\Debug\Lemonway.Services.dll
+c:\users\achouaf\documents\visual studio 2015\Projects\Lemonway.Services\Lemonway.Services\obj\Debug\Lemonway.Services.pdb
+c:\users\achouaf\documents\visual studio 2015\Projects\Lemonway.Services\Lemonway.Services\bin\Newtonsoft.Json.dll
+c:\users\achouaf\documents\visual studio 2015\Projects\Lemonway.Services\Lemonway.Services\bin\Newtonsoft.Json.xml

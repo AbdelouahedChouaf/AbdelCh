@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Lemonway.Services.ConsoleApp.OptionOne.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Lemonway_Services_ConsoleApp_OptionOne_FibonacciService_WebServiceFibonacci" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:49586/WebServiceFibonacci.asmx</Value>
+    </Setting>
+    <Setting Name="Lemonway_Services_ConsoleApp_OptionOne_XmlToJsonService_WebServiceXmlToJson" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:49586/WebServiceXmlToJson.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

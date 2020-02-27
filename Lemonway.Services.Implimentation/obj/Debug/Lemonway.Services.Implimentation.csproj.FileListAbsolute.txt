@@ -1,0 +1,10 @@
+c:\users\achouaf\documents\visual studio 2015\Projects\Lemonway.Services\Lemonway.Services.Implimentation\bin\Debug\Lemonway.Services.Implimentation.dll
+c:\users\achouaf\documents\visual studio 2015\Projects\Lemonway.Services\Lemonway.Services.Implimentation\bin\Debug\Lemonway.Services.Implimentation.pdb
+c:\users\achouaf\documents\visual studio 2015\Projects\Lemonway.Services\Lemonway.Services.Implimentation\bin\Debug\Newtonsoft.Json.dll
+c:\users\achouaf\documents\visual studio 2015\Projects\Lemonway.Services\Lemonway.Services.Implimentation\bin\Debug\Newtonsoft.Json.xml
+c:\users\achouaf\documents\visual studio 2015\Projects\Lemonway.Services\Lemonway.Services.Implimentation\obj\Debug\Lemonway.Services.Implimentation.csprojResolveAssemblyReference.cache
+c:\users\achouaf\documents\visual studio 2015\Projects\Lemonway.Services\Lemonway.Services.Implimentation\obj\Debug\Lemonway.Services.Implimentation.dll
+c:\users\achouaf\documents\visual studio 2015\Projects\Lemonway.Services\Lemonway.Services.Implimentation\obj\Debug\Lemonway.Services.Implimentation.pdb
+C:\Users\achouaf\Documents\Visual Studio 2015\Projects\Lemonway.Services\Lemonway.Services.Implimentation\bin\Debug\Lemonway.Services.Implimentation.dll.config
+C:\Users\achouaf\Documents\Visual Studio 2015\Projects\Lemonway.Services\Lemonway.Services.Implimentation\bin\Debug\log4net.dll
+C:\Users\achouaf\Documents\Visual Studio 2015\Projects\Lemonway.Services\Lemonway.Services.Implimentation\bin\Debug\log4net.xml

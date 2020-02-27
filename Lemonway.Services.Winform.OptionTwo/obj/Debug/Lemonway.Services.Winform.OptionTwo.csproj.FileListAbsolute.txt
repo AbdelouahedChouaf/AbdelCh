@@ -1,0 +1,11 @@
+C:\Users\achouaf\Documents\Visual Studio 2015\Projects\Lemonway.Services\Lemonway.Services.Winform.OptionTwo\bin\Debug\Lemonway.Services.Winform.OptionTwo.exe
+C:\Users\achouaf\Documents\Visual Studio 2015\Projects\Lemonway.Services\Lemonway.Services.Winform.OptionTwo\bin\Debug\Lemonway.Services.Winform.OptionTwo.pdb
+C:\Users\achouaf\Documents\Visual Studio 2015\Projects\Lemonway.Services\Lemonway.Services.Winform.OptionTwo\obj\Debug\Lemonway.Services.Winform.OptionTwo.csprojResolveAssemblyReference.cache
+C:\Users\achouaf\Documents\Visual Studio 2015\Projects\Lemonway.Services\Lemonway.Services.Winform.OptionTwo\obj\Debug\Lemonway.Services.Winform.OptionTwo.Properties.Resources.resources
+C:\Users\achouaf\Documents\Visual Studio 2015\Projects\Lemonway.Services\Lemonway.Services.Winform.OptionTwo\obj\Debug\Lemonway.Services.Winform.OptionTwo.csproj.GenerateResource.Cache
+C:\Users\achouaf\Documents\Visual Studio 2015\Projects\Lemonway.Services\Lemonway.Services.Winform.OptionTwo\obj\Debug\Lemonway.Services.Winform.OptionTwo.exe
+C:\Users\achouaf\Documents\Visual Studio 2015\Projects\Lemonway.Services\Lemonway.Services.Winform.OptionTwo\obj\Debug\Lemonway.Services.Winform.OptionTwo.pdb
+C:\Users\achouaf\Documents\Visual Studio 2015\Projects\Lemonway.Services\Lemonway.Services.Winform.OptionTwo\bin\Debug\Lemonway.Services.Winform.OptionTwo.exe.config
+C:\Users\achouaf\Documents\Visual Studio 2015\Projects\Lemonway.Services\Lemonway.Services.Winform.OptionTwo\obj\Debug\BackgroundWorkerSample.Form1.resources
+C:\Users\achouaf\Documents\Visual Studio 2015\Projects\Lemonway.Services\Lemonway.Services.Winform.OptionTwo\bin\Debug\log4net.dll
+C:\Users\achouaf\Documents\Visual Studio 2015\Projects\Lemonway.Services\Lemonway.Services.Winform.OptionTwo\bin\Debug\log4net.xml

@@ -1,0 +1,6 @@
+C:\Users\achouaf\Documents\Visual Studio 2015\Projects\Lemonway.Services\Lemonway.Services.ConsoleApp.OptionOne\bin\Debug\Lemonway.Services.ConsoleApp.OptionOne.exe
+C:\Users\achouaf\Documents\Visual Studio 2015\Projects\Lemonway.Services\Lemonway.Services.ConsoleApp.OptionOne\bin\Debug\Lemonway.Services.ConsoleApp.OptionOne.pdb
+C:\Users\achouaf\Documents\Visual Studio 2015\Projects\Lemonway.Services\Lemonway.Services.ConsoleApp.OptionOne\obj\Debug\Lemonway.Services.ConsoleApp.OptionOne.exe
+C:\Users\achouaf\Documents\Visual Studio 2015\Projects\Lemonway.Services\Lemonway.Services.ConsoleApp.OptionOne\obj\Debug\Lemonway.Services.ConsoleApp.OptionOne.pdb
+C:\Users\achouaf\Documents\Visual Studio 2015\Projects\Lemonway.Services\Lemonway.Services.ConsoleApp.OptionOne\bin\Debug\Lemonway.Services.ConsoleApp.OptionOne.exe.config
+C:\Users\achouaf\Documents\Visual Studio 2015\Projects\Lemonway.Services\Lemonway.Services.ConsoleApp.OptionOne\obj\Debug\Lemonway.Services.ConsoleApp.OptionOne.csprojResolveAssemblyReference.cache

@@ -1,0 +1,41 @@
+2020-02-26 21:03:22,570 [10] INFO  Lemonway.Services.WebServiceFibonacci [(null)] - This is a Info message
+2020-02-26 21:03:22,686 [10] WARN  Lemonway.Services.WebServiceFibonacci [(null)] - This is a Warning message
+2020-02-26 21:03:22,688 [10] ERROR Lemonway.Services.WebServiceFibonacci [(null)] - This is an Error message
+2020-02-26 21:03:22,689 [10] FATAL Lemonway.Services.WebServiceFibonacci [(null)] - This is a Fatal message
+2020-02-26 21:19:48,684 [1] INFO  Lemonway.Services.Controllers.Global [(null)] - Injecting dependencies
+2020-02-26 21:20:09,317 [6] INFO  Lemonway.Services.Implimentation.FibonacciService [(null)] - The fibonacci service is initilized
+2020-02-26 21:20:09,320 [6] INFO  Lemonway.Services.Implimentation.FibonacciService [(null)] - The fibonacci of the numbers from 1 to 100 is calculated correctlly
+2020-02-26 21:20:09,326 [6] INFO  Lemonway.Services.WebServiceFibonacci [(null)] - The Fibonacci Service is called
+2020-02-26 21:20:25,484 [10] INFO  Lemonway.Services.Implimentation.FibonacciService [(null)] - The fibonacci service is initilized
+2020-02-26 21:20:25,485 [10] INFO  Lemonway.Services.Implimentation.FibonacciService [(null)] - The fibonacci of the numbers from 1 to 100 is calculated correctlly
+2020-02-26 21:20:25,487 [10] INFO  Lemonway.Services.WebServiceFibonacci [(null)] - The Fibonacci Service is called
+2020-02-26 21:38:16,268 [1] INFO  Lemonway.Services.Controllers.Global [(null)] - Injecting dependencies
+2020-02-26 21:44:23,201 [1] INFO  Lemonway.Services.Controllers.Global [(null)] - Injecting dependencies
+2020-02-26 21:47:13,150 [1] INFO  Lemonway.Services.Controllers.Global [(null)] - Injecting dependencies
+2020-02-26 21:47:58,366 [8] INFO  Lemonway.Services.Implimentation.FibonacciService [(null)] - The fibonacci service is initilized
+2020-02-26 21:47:58,368 [8] INFO  Lemonway.Services.Implimentation.FibonacciService [(null)] - The fibonacci of the numbers from 1 to 100 is calculated correctlly
+2020-02-26 21:47:58,374 [8] INFO  Lemonway.Services.WebServiceFibonacci [(null)] - The Fibonacci Service is called
+2020-02-26 21:48:11,124 [10] INFO  Lemonway.Services.Implimentation.FibonacciService [(null)] - The fibonacci service is initilized
+2020-02-26 21:48:11,125 [10] INFO  Lemonway.Services.Implimentation.FibonacciService [(null)] - The fibonacci of the numbers from 1 to 100 is calculated correctlly
+2020-02-26 21:48:11,133 [10] INFO  Lemonway.Services.WebServiceFibonacci [(null)] - The Fibonacci Service is called
+2020-02-26 21:49:11,765 [1] INFO  Lemonway.Services.Controllers.Global [(null)] - Injecting dependencies
+2020-02-26 21:49:37,351 [9] INFO  Lemonway.Services.Implimentation.FibonacciService [(null)] - The fibonacci service is initilized
+2020-02-26 21:49:37,353 [9] INFO  Lemonway.Services.Implimentation.FibonacciService [(null)] - The fibonacci of the numbers from 1 to 100 is calculated correctlly
+2020-02-26 21:49:37,358 [9] INFO  Lemonway.Services.WebServiceFibonacci [(null)] - The Fibonacci Service is called
+2020-02-26 21:49:50,255 [8] INFO  Lemonway.Services.Implimentation.FibonacciService [(null)] - The fibonacci service is initilized
+2020-02-26 21:49:50,257 [8] INFO  Lemonway.Services.Implimentation.FibonacciService [(null)] - The fibonacci of the numbers from 1 to 100 is calculated correctlly
+2020-02-26 21:49:50,259 [8] INFO  Lemonway.Services.WebServiceFibonacci [(null)] - The Fibonacci Service is called
+2020-02-27 20:11:23,966 [1] INFO  Lemonway.Services.Controllers.Global [(null)] - Injecting dependencies
+2020-02-27 20:14:25,983 [11] INFO  Lemonway.Services.Implimentation.FibonacciService [(null)] - The fibonacci service is initilized
+2020-02-27 20:14:25,986 [11] INFO  Lemonway.Services.Implimentation.FibonacciService [(null)] - The fibonacci of the numbers from 1 to 100 is calculated correctlly
+2020-02-27 20:14:25,992 [11] INFO  Lemonway.Services.WebServiceFibonacci [(null)] - The Fibonacci Service is called
+2020-02-27 20:14:38,247 [12] INFO  Lemonway.Services.WebServiceXmlToJson [(null)] - The Xml to Json service is called
+2020-02-27 20:14:38,251 [12] INFO  Lemonway.Services.Implimentation.XmlToJsonService [(null)] - Trying the convert xml to json
+2020-02-27 20:14:38,570 [12] INFO  Lemonway.Services.Implimentation.XmlToJsonService [(null)] - Xml to json is converted
+2020-02-27 20:15:21,960 [1] INFO  Lemonway.Services.Controllers.Global [(null)] - Injecting dependencies
+2020-02-27 20:15:42,455 [9] INFO  Lemonway.Services.Implimentation.FibonacciService [(null)] - The fibonacci service is initilized
+2020-02-27 20:15:42,458 [9] INFO  Lemonway.Services.Implimentation.FibonacciService [(null)] - The fibonacci of the numbers from 1 to 100 is calculated correctlly
+2020-02-27 20:15:42,463 [9] INFO  Lemonway.Services.WebServiceFibonacci [(null)] - The Fibonacci Service is called
+2020-02-27 20:15:45,815 [6] INFO  Lemonway.Services.WebServiceXmlToJson [(null)] - The Xml to Json service is called
+2020-02-27 20:15:45,902 [6] INFO  Lemonway.Services.Implimentation.XmlToJsonService [(null)] - Trying the convert xml to json
+2020-02-27 20:15:46,196 [6] INFO  Lemonway.Services.Implimentation.XmlToJsonService [(null)] - Xml to json is converted
